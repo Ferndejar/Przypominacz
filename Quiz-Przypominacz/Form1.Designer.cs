@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -37,6 +38,7 @@
             this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.listBox1 = new System.Windows.Forms.ListBox();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
@@ -140,6 +142,11 @@
             this.listBox1.Size = new System.Drawing.Size(276, 199);
             this.listBox1.TabIndex = 1;
             // 
+            // timer1
+            // 
+            this.timer1.Interval = 1000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -169,6 +176,7 @@
         private System.Windows.Forms.NumericUpDown numericUpDown2;
         private System.Windows.Forms.NumericUpDown numericUpDown1;
         private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 
