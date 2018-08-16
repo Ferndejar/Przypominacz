@@ -1,0 +1,10 @@
+C:\Users\M3\Desktop\Programowanie C#\Quiz-Przypominacz\Quiz-Przypominacz\bin\Debug\Quiz-Przypominacz.exe.config
+C:\Users\M3\Desktop\Programowanie C#\Quiz-Przypominacz\Quiz-Przypominacz\bin\Debug\Quiz-Przypominacz.exe
+C:\Users\M3\Desktop\Programowanie C#\Quiz-Przypominacz\Quiz-Przypominacz\bin\Debug\Quiz-Przypominacz.pdb
+C:\Users\M3\Desktop\Programowanie C#\Quiz-Przypominacz\Quiz-Przypominacz\obj\Debug\Quiz-Przypominacz.csprojResolveAssemblyReference.cache
+C:\Users\M3\Desktop\Programowanie C#\Quiz-Przypominacz\Quiz-Przypominacz\obj\Debug\Quiz_Przypominacz.Form1.resources
+C:\Users\M3\Desktop\Programowanie C#\Quiz-Przypominacz\Quiz-Przypominacz\obj\Debug\Quiz_Przypominacz.Properties.Resources.resources
+C:\Users\M3\Desktop\Programowanie C#\Quiz-Przypominacz\Quiz-Przypominacz\obj\Debug\Quiz-Przypominacz.csproj.GenerateResource.cache
+C:\Users\M3\Desktop\Programowanie C#\Quiz-Przypominacz\Quiz-Przypominacz\obj\Debug\Quiz-Przypominacz.csproj.CoreCompileInputs.cache
+C:\Users\M3\Desktop\Programowanie C#\Quiz-Przypominacz\Quiz-Przypominacz\obj\Debug\Quiz-Przypominacz.exe
+C:\Users\M3\Desktop\Programowanie C#\Quiz-Przypominacz\Quiz-Przypominacz\obj\Debug\Quiz-Przypominacz.pdb
